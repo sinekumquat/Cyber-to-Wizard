@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
 	"name": "cyberstyle",
-	"version": "0.92",
-	"description": "Adds some flash to the CYBERWAR",
+	"version": "0.98",
+	"description": "Computers is magic",
 	"content_scripts": 
 	[
 		{
